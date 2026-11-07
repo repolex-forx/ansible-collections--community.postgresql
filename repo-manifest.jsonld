@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.postgresql/commit/dfe50fce6c61df8e719a892ac8a7693183cf8583",
       "git:hexsha": "dfe50fce6c61df8e719a892ac8a7693183cf8583",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "5.1.1"
     },
     {
