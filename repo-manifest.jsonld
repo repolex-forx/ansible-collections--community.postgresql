@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.postgresql/commit/dfe50fce6c61df8e719a892ac8a7693183cf8583",
       "git:hexsha": "dfe50fce6c61df8e719a892ac8a7693183cf8583",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "5.1.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "5.1.1",
+      "repolex:parsedAt": "2026-11-07T13:18:10.326946+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.postgresql/commit/b3b088194eaf873072954fba734ebb3d54230f3d",
